@@ -1,4 +1,4 @@
-## This project is based on creating an IB2 Classifier and a LED7 Generator and installing them into the WEKA workbench. 
+## This project is based on creating an IB2 Classifier and a LED7 Data Generator then installing them into the WEKA workbench.
 
 - The IB2 classifier was then compared to the IB1 and J48 classifiers with the LED24 and LED7 data generators with varying amounts of noise.
 
