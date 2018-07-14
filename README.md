@@ -5,3 +5,5 @@
 - The IB2 report details the process and results of the experiment with respect to classification accuracy and data storage.
 
 - The java source code for the IB2 Classifier and LED7 Generator have been included. The IB2 and LED7 classes extend and modify the IB1 and LED24 classes which are already included in the WEKA workbench.
+
+- The final report is avaible above in the form of a PFD. It uses the LaTex typesetting system.
